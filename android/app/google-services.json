@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "757192843288",
+    "project_id": "blocauthtest",
+    "storage_bucket": "blocauthtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757192843288:android:e8825109be55ae9f21a36d",
+        "android_client_info": {
+          "package_name": "com.flutterclass.blocauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757192843288-0jkmvbc0egbpvpt125iu211kkiisg3o1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterclass.blocauth",
+            "certificate_hash": "18f05888f8cd89b50eaa8a9700f919344ee2d244"
+          }
+        },
+        {
+          "client_id": "757192843288-v8quke1snjpmmkm2no852fulco4u75af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAANLRJ8yPSGW_c8Y_nz6iEF2DFOREbR20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757192843288-v8quke1snjpmmkm2no852fulco4u75af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
